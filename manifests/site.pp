@@ -1,5 +1,5 @@
 node default {
-  file {'/root/BRIJESHREADME':
+  file {'/home/admindhl/BRIJESHREADME':
     ensure => file,
   }
 }
